@@ -654,7 +654,7 @@ nav .logo h3 {
 .mensagem:hover {
   text-shadow: 0 0 1.66px #000;
   font-size: 5rem;
-  padding-top: 20vh; /* Ajuste o valor conforme necessário */
+  padding-top: 20vh;
 }
 
 .mensagem span {
@@ -663,7 +663,7 @@ nav .logo h3 {
 }
 
 .mensagem:hover span {
-  transform: rotate(3280deg); /* Gira cada letra */
+  transform: rotate(3280deg);
 }
 
 .estagios {
